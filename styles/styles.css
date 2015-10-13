@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box; }
+
+.forms {
+  background-color: #5BA3D6;
+  height: 741px;
+  width: 1434px; }
+
+fieldset {
+  float: left; }
+
+form fieldset label {
+  content: '';
+  clear: both;
+  display: block; }
