@@ -4,14 +4,16 @@
 .forms {
   background-color: #5BA3D6;
   height: 741px;
-  width: 1434px;
+  width: 1174px;
 }
 fieldset {
   float: left;
 }
-
 form fieldset label {
   content:'';
   clear:both;
   display:block;
+}
+input {
+  border: 5px;
 }
